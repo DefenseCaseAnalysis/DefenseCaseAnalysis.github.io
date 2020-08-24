@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Defense Case Analysis</title>
+    <link>https://DefenseCaseAnalysis.github.io/post/</link>
+    <description>Recent content in Posts on Defense Case Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://DefenseCaseAnalysis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DCA is here! Give him a warm welcome guys!</title>
+      <link>https://DefenseCaseAnalysis.github.io/post/start-of-an-era/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://DefenseCaseAnalysis.github.io/post/start-of-an-era/</guid>
+      <description>&lt;p&gt;Follow the footsteps of ComNavOps before me, I wanted this blog to be dedicated to all military matters in the warfighting department. We have recently seen military projects getting delayed to extended periods of time at the cost of our combat readiness, we also have seen colossally overbudget projects that failed to meet expectations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://DefenseCaseAnalysis.github.io/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://DefenseCaseAnalysis.github.io/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

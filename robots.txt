@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://DefenseCaseAnalysis.github.io/sitemap.xml
