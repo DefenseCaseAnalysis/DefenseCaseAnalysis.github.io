@@ -1,17 +1,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Welcome on Defense Case Analysis</title>
-		<link>https://example.com/tags/welcome/</link>
-		<description>Recent content in Welcome </description>
+		<title>Defense Case Analysis on Defense Case Analysis</title>
+		<link>https://example.com/</link>
+		<description>Recent content in Defense Case Analysis </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
   		<language>en</language>
 		
-		<managingEditor>Page(/tags/welcome) (Nam Le)</managingEditor>
+		<managingEditor>Page(&#34;Defense Case Analysis&#34;) (Nam Le)</managingEditor>
     	
   		<lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
 		
-		<atom:link href="/tags/welcome/" rel="self" type="application/rss+xml" />
+		<atom:link href="/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>DCA is here! Give him a warm welcome guys!</title>

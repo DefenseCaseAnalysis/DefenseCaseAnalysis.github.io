@@ -3,31 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/post/start-of-an-era/</loc>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/start-of-a-new-era/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/tags/welcome/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/archives/</loc>
+    <loc>https://example.com/tags/welcome/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DefenseCaseAnalysis.github.io/search/</loc>
+    <loc>https://example.com/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/search/</loc>
   </url>
   
 </urlset>
