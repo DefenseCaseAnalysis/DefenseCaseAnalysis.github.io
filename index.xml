@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Defense Case Analysis on Defense Case Analysis</title>
-		<link>https://example.com/</link>
+		<link>https://defensecaseanalysis.github.com/</link>
 		<description>Recent content in Defense Case Analysis </description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -15,9 +15,9 @@
 		
 		<item>
 			<title>DCA is here! Give him a warm welcome guys!</title>
-			<link>https://example.com/post/start-of-a-new-era/</link>
+			<link>https://defensecaseanalysis.github.com/post/start-of-a-new-era/</link>
 			<pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-			<guid>https://example.com/post/start-of-a-new-era/</guid>
+			<guid>https://defensecaseanalysis.github.com/post/start-of-a-new-era/</guid>
 			<description>&lt;p&gt;Follow the footsteps of ComNavOps before me, I wanted this blog to be dedicated to all military matters in the warfighting department. We have recently seen military projects getting delayed to extended periods of time at the cost of our combat readiness, we also have seen colossally overbudget projects that failed to meet expectations.&lt;/p&gt;</description>
 		</item>
       	
