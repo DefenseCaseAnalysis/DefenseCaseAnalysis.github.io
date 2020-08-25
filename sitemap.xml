@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://defensecaseanalysis.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://defensecaseanalysis.github.io/post/start-of-a-new-era/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://defensecaseanalysis.github.io/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://defensecaseanalysis.github.io/tags/maintenance/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://defensecaseanalysis.github.io/post/non-existent-maintenance-in-the-ports/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://defensecaseanalysis.github.io/tags/ports/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://defensecaseanalysis.github.io/post/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://defensecaseanalysis.github.io/tags/</loc>
+    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://defensecaseanalysis.github.io/post/start-of-a-new-era/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   

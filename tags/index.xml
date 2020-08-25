@@ -7,12 +7,20 @@
 		
   		<language>en</language>
 		
-		<managingEditor>Page(/tags) (Nam Le)</managingEditor>
+		<managingEditor>Page(/tags)</managingEditor>
     	
-  		<lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
+  		<lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Non-existent Maintenance in the ports</title>
+			<link>https://defensecaseanalysis.github.io/post/non-existent-maintenance-in-the-ports/</link>
+			<pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+			<guid>https://defensecaseanalysis.github.io/post/non-existent-maintenance-in-the-ports/</guid>
+			<description>&lt;p&gt;Have you ever wondered about the current US port situation? How are we keeping up the legacy of WW2 builders that churn out thousands of ships every year to the frontline on both the Pacific and the Atlantic? Well wonder no more, Breaking Defense has recently written an article about this subject.&lt;/p&gt;</description>
+		</item>
+      	
 		<item>
 			<title>DCA is here! Give him a warm welcome guys!</title>
 			<link>https://defensecaseanalysis.github.io/post/start-of-a-new-era/</link>
